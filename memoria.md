@@ -37,6 +37,14 @@ Fases previstas: adulta jovem (memória com Auvino), madura, idosa no início e 
 Ficha: `producao/personagens/03_Isabele/descricao.md`.
 Isabele entra já adulta. Filha de Seu Mundico, um pouco mais velha que Miguel. Cânone: bonita sem pedir atenção, rosto forte, olhar firme, corpo de quem viveu e presença sem interesse em impressionar. Fases autorizadas: adulta no retorno de Miguel; esposa/mãe; madura no encerramento. É proibido criar infância/adolescência ou parentesco com Jesuína/Miguel. O mesmo rosto deve envelhecer naturalmente.
 
+### 04 — Dona Luzia
+Ficha: `producao/personagens/04_Dona_Luzia/descricao.md`.
+Cânone: irmã mais nova de Dona Jesuína, tia-avó de Miguel, solteira durante grande parte da história, faladeira, opinativa, afetuosa e socialmente observadora. Na infância de Miguel aparece como adulta ativa e expressiva; no retorno de Miguel, dezessete anos depois, a V17 a define como `mais velha, mais magra, mas absolutamente a mesma`.
+
+Fases autorizadas agora: `01_adulta_infancia_miguel` e `02_mais_velha_retorno_miguel`. Não criar fase final até existir necessidade editorial concreta. O mesmo rosto deve ser preservado integralmente; envelhecimento por passagem de tempo, emagrecimento e marcas naturais, nunca por troca de identidade.
+
+Locks/proibições de Luzia: não chamá-la de mãe de Miguel; não fazê-la filha de Jesuína; não inventar filhos, profissão, religião específica ou passado conjugal; não transformá-la em caricatura de `velha fofoqueira`; não usar romance juvenil na relação tardia com Seu Mundico; não inventar citações; não promover pranchas, contact sheets ou estudos com texto/metadados alucinados a assets oficiais. Dois estudos gerados nesta execução foram rejeitados por alucinações de personagem e não pertencem ao conjunto oficial.
+
 ## Fluxo obrigatório
 V17 -> roteiro da página -> stylesheet -> memoria.md -> referência exata de personagem/fase -> cenário -> composição/dimensões -> geração -> auditoria de continuidade -> salvamento na pasta da página.
 
