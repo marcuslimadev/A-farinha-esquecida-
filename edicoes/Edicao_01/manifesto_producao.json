@@ -1,0 +1,238 @@
+{
+  "edition": 1,
+  "pages": 24,
+  "asset_count": 27,
+  "mode": "built-in image_gen",
+  "source": "V17 capítulo I, páginas físicas 5-9",
+  "notes": [
+    "Texto integral canônico preservado; diálogos não inventados.",
+    "Cena de emprego e frase sobre luz: noite chuvosa, energia ausente.",
+    "Páginas 20-24: passagem visual, sem incorporar texto do capítulo II.",
+    "27 slots efetivos: páginas 03, 06 e 10 com dois assets."
+  ],
+  "references": {
+    "M": "C:/Projetos/A farinha/producao/personagens/01_Miguel/fases/01_infancia/aprovadas/MIGUEL_INFANCIA_RETRATO_V01.png",
+    "J": "C:/Projetos/A farinha/producao/personagens/02_Dona_Jesuina/fases/03_idosa_inicio/aprovadas/DONA_JESUINA_IDOSA_INICIO_RETRATO_V01.png",
+    "L": "C:/Projetos/A farinha/producao/personagens/04_Dona_Luzia/fases/01_adulta_infancia_miguel/aprovadas/DONA_LUZIA_ADULTA_INFANCIA_RETRATO_V01.png",
+    "R": "C:/Projetos/A farinha/producao/personagens/05_Rosaria/fases/01_mae_partida/aprovadas/ROSARIA_MAE_PARTIDA_RETRATO_V01.png",
+    "F": "C:/Projetos/A farinha/producao/personagens/06_Francisco/fases/01_pai_partida/aprovadas/FRANCISCO_PAI_PARTIDA_RETRATO_V01.png",
+    "T": "C:/Projetos/A farinha/producao/personagens/07_Teresa/fases/01_adolescente_partida/aprovadas/TERESA_ADOLESCENTE_PARTIDA_RETRATO_V01.png",
+    "P": "C:/Projetos/A farinha/producao/personagens/08_Joao_Paulo/fases/01_adolescente_partida/aprovadas/JOAO_PAULO_ADOLESCENTE_PARTIDA_RETRATO_V01.png"
+  },
+  "assets": [
+    {
+      "page": 1,
+      "asset": 1,
+      "prompt": "Use case: illustration-story. Create a single photorealistic cinematic literary novel illustration, portrait 2:3. Reference image is the exact face of Miguel age 8-10; preserve identity, brown tee and simple dark shorts. No text whatsoever. Scene: dawn in a lived-in Brazilian Amazon riverside community on dark Rio Negro. Main subject is Dona Jesuina's modest functional house on old timber posts, dark aged wooden boards, simple corrugated zinc gable roof, modest front veranda and stairs, central front doorway, one simple window on each side. House is maintained, inhabited, dignified, not ruins. Front faces river; kitchen at rear and flour work shed beyond backyard. Miguel small in composition, barefoot on veranda watching the morning, not posing. Human eye-level moderately wide cinematic camera; realistic humid soft dawn light, dense natural green vegetation, black river at right background, calm everyday feeling. Leave naturally quiet upper left sky/mist for later title overlay. No fantasy, no tourism aesthetic, no decorative exotic animals, no city, no logos, no lettering. Detailed natural photographic textures.",
+      "path": "Pagina_01/E01_P01_A01_ABERTURA_CASA_JESUINA_V01.png"
+    },
+    {
+      "page": 2,
+      "asset": 1,
+      "ratio": "2:3",
+      "characters": "JM",
+      "title": "Interior amplo",
+      "prompt": "Use case: illustration-story. Asset for A Farinha Esquecida edition 01, premium illustrated literary novel. Single photorealistic cinematic image, not collage or comic. Brazilian Amazon lived-in and dignified, natural skin/wood/water textures, restrained earthy palette. Preserve exact facial identity, age, hair and clothing colors from supplied character reference images. No text, letters, logos, speech balloons, watermark, fantasy, exotic decorative animals, tourist styling or artificial model poses. All people remain same age throughout episode. Leave quiet breathing space at edges, safe crop margin.  Aspect ratio 2:3. Scene: Inside the same house at dawn. View from front living room through to rear smoky kitchen. Scarred wooden table at left, Jesuina in dark brown simple dress tending small cooking fire rear right; Miguel brown tee seated quietly. Side window light, timber beams and posts, lived-in organized space."
+    },
+    {
+      "page": 3,
+      "asset": 1,
+      "ratio": "4:5",
+      "characters": "J",
+      "title": "Café no pano",
+      "prompt": "Use case: illustration-story. Asset for A Farinha Esquecida edition 01, premium illustrated literary novel. Single photorealistic cinematic image, not collage or comic. Brazilian Amazon lived-in and dignified, natural skin/wood/water textures, restrained earthy palette. Preserve exact facial identity, age, hair and clothing colors from supplied character reference images. No text, letters, logos, speech balloons, watermark, fantasy, exotic decorative animals, tourist styling or artificial model poses. All people remain same age throughout episode. Leave quiet breathing space at edges, safe crop margin.  Aspect ratio 4:5. Scene: Tight intimate detail of Jesuina's aged strong brown hands pouring hot water from plain metal kettle into supported cloth coffee strainer over plain enamel pot on scarred wooden kitchen table. Correct safe grip, realistic fingers. Gentle morning window light. No face required."
+    },
+    {
+      "page": 3,
+      "asset": 2,
+      "ratio": "3:2",
+      "characters": "",
+      "title": "Mesa da manhã",
+      "prompt": "Use case: illustration-story. Asset for A Farinha Esquecida edition 01, premium illustrated literary novel. Single photorealistic cinematic image, not collage or comic. Brazilian Amazon lived-in and dignified, natural skin/wood/water textures, restrained earthy palette. Preserve exact facial identity, age, hair and clothing colors from supplied character reference images. No text, letters, logos, speech balloons, watermark, fantasy, exotic decorative animals, tourist styling or artificial model poses. All people remain same age throughout episode. Leave quiet breathing space at edges, safe crop margin.  Aspect ratio 3:2. Scene: Unstyled everyday breakfast on scarred dark timber table in same house: plain enamel coffee cups, small plate of beiju, cooked cassava, pupunha, fried pacova banana and modest bowl of yellow manioc flour. Small realistic household portions, not abundant commercial food styling; soft morning light."
+    },
+    {
+      "page": 4,
+      "asset": 1,
+      "ratio": "2:3",
+      "characters": "MJ",
+      "title": "Avó e neto",
+      "prompt": "Use case: illustration-story. Asset for A Farinha Esquecida edition 01, premium illustrated literary novel. Single photorealistic cinematic image, not collage or comic. Brazilian Amazon lived-in and dignified, natural skin/wood/water textures, restrained earthy palette. Preserve exact facial identity, age, hair and clothing colors from supplied character reference images. No text, letters, logos, speech balloons, watermark, fantasy, exotic decorative animals, tourist styling or artificial model poses. All people remain same age throughout episode. Leave quiet breathing space at edges, safe crop margin.  Aspect ratio 2:3. Scene: Medium two-person view in rear kitchen: Miguel in brown tee attentively watches Jesuina in dark brown dress working over wooden counter. Her posture upright, expression firm quietly caring, not posing. Natural morning sidelight, restrained everyday intimacy."
+    },
+    {
+      "page": 5,
+      "asset": 1,
+      "ratio": "16:9",
+      "characters": "JM",
+      "title": "Casa de farinha",
+      "prompt": "Use case: illustration-story. Asset for A Farinha Esquecida edition 01, premium illustrated literary novel. Single photorealistic cinematic image, not collage or comic. Brazilian Amazon lived-in and dignified, natural skin/wood/water textures, restrained earthy palette. Preserve exact facial identity, age, hair and clothing colors from supplied character reference images. No text, letters, logos, speech balloons, watermark, fantasy, exotic decorative animals, tourist styling or artificial model poses. All people remain same age throughout episode. Leave quiet breathing space at edges, safe crop margin.  Aspect ratio 16:9. Scene: Wide active small Amazon manioc flour work shed behind house, wooden posts zinc roof, open sides. Large shallow round metal roasting pan set in clay-brick wood-fired base at RIGHT, woven cylindrical tipiti suspended and stretched on sturdy wooden press at LEFT, processing bench at back. Jesuina using long wooden paddle to stir dry granular flour, Miguel observing safely away from heat. Two anonymous adult community workers at rear handle cassava, dignified practical work. No decorative baskets overload."
+    },
+    {
+      "page": 6,
+      "asset": 1,
+      "ratio": "4:5",
+      "characters": "J",
+      "title": "Tipiti",
+      "prompt": "Use case: illustration-story. Asset for A Farinha Esquecida edition 01, premium illustrated literary novel. Single photorealistic cinematic image, not collage or comic. Brazilian Amazon lived-in and dignified, natural skin/wood/water textures, restrained earthy palette. Preserve exact facial identity, age, hair and clothing colors from supplied character reference images. No text, letters, logos, speech balloons, watermark, fantasy, exotic decorative animals, tourist styling or artificial model poses. All people remain same age throughout episode. Leave quiet breathing space at edges, safe crop margin.  Aspect ratio 4:5. Scene: Close view of Jesuina's strong wrinkled hands checking a traditional woven tubular cylindrical tipiti under tension on sturdy wooden lever frame; compressed grated cassava within, liquid draining to basin beneath, active flour shed. Keep material mechanics realistic, functional weave, no fantasy utensil."
+    },
+    {
+      "page": 6,
+      "asset": 2,
+      "ratio": "3:2",
+      "characters": "M",
+      "title": "O esforço",
+      "prompt": "Use case: illustration-story. Asset for A Farinha Esquecida edition 01, premium illustrated literary novel. Single photorealistic cinematic image, not collage or comic. Brazilian Amazon lived-in and dignified, natural skin/wood/water textures, restrained earthy palette. Preserve exact facial identity, age, hair and clothing colors from supplied character reference images. No text, letters, logos, speech balloons, watermark, fantasy, exotic decorative animals, tourist styling or artificial model poses. All people remain same age throughout episode. Leave quiet breathing space at edges, safe crop margin.  Aspect ratio 3:2. Scene: Miguel child brown tee at safe distance from flour roasting pan, thoughtful slightly tired expression observing work, warm reflected furnace light softly on cheek, humid daylight and wood posts beyond. Close medium scene, no injury, no posing."
+    },
+    {
+      "page": 7,
+      "asset": 1,
+      "ratio": "3:2",
+      "characters": "MJLRFTP",
+      "title": "Família e futuro",
+      "prompt": "Use case: illustration-story. Asset for A Farinha Esquecida edition 01, premium illustrated literary novel. Single photorealistic cinematic image, not collage or comic. Brazilian Amazon lived-in and dignified, natural skin/wood/water textures, restrained earthy palette. Preserve exact facial identity, age, hair and clothing colors from supplied character reference images. No text, letters, logos, speech balloons, watermark, fantasy, exotic decorative animals, tourist styling or artificial model poses. All people remain same age throughout episode. Leave quiet breathing space at edges, safe crop margin.  Aspect ratio 3:2. Scene: Family daytime conversation around scarred table inside same house. Exactly seven distinct referenced relatives: child Miguel listening; elderly Jesuina firm; younger sister Luzia brown blouse gesturing; mother Rosaria blue blouse hopeful; father Francisco grey button shirt practical; adolescent Teresa burgundy blouse; adolescent Joao Paulo ochre tee animated. Natural ensemble composition, no one looks at camera."
+    },
+    {
+      "page": 8,
+      "asset": 1,
+      "ratio": "3:2",
+      "characters": "FRM",
+      "title": "A oportunidade",
+      "prompt": "Use case: illustration-story. Asset for A Farinha Esquecida edition 01, premium illustrated literary novel. Single photorealistic cinematic image, not collage or comic. Brazilian Amazon lived-in and dignified, natural skin/wood/water textures, restrained earthy palette. Preserve exact facial identity, age, hair and clothing colors from supplied character reference images. No text, letters, logos, speech balloons, watermark, fantasy, exotic decorative animals, tourist styling or artificial model poses. All people remain same age throughout episode. Leave quiet breathing space at edges, safe crop margin.  Aspect ratio 3:2. Scene: Night of heavy rain and power cut inside timber house. Francisco grey shirt announces new job to Rosaria blue blouse seated hands held in lap, restrained hopeful expression, Miguel child listening behind. Small oil lamp provides warm practical illumination, rain visible at dark window. No daylight, no menace, no text."
+    },
+    {
+      "page": 9,
+      "asset": 1,
+      "ratio": "2:3",
+      "characters": "J",
+      "title": "Muita luz",
+      "prompt": "Use case: illustration-story. Asset for A Farinha Esquecida edition 01, premium illustrated literary novel. Single photorealistic cinematic image, not collage or comic. Brazilian Amazon lived-in and dignified, natural skin/wood/water textures, restrained earthy palette. Preserve exact facial identity, age, hair and clothing colors from supplied character reference images. No text, letters, logos, speech balloons, watermark, fantasy, exotic decorative animals, tourist styling or artificial model poses. All people remain same age throughout episode. Leave quiet breathing space at edges, safe crop margin.  Aspect ratio 2:3. Scene: Same rainy night power cut. Jesuina elderly sits upright sewing simple fabric, lifting firm perceptive eyes toward off-frame family conversation. Small oil lamp warm side light, dark rain-streaked open window with eaves beyond. Intimate medium portrait, no magical glow, no daylight."
+    },
+    {
+      "page": 10,
+      "asset": 1,
+      "ratio": "3:2",
+      "characters": "R",
+      "title": "Pequenas separações",
+      "prompt": "Use case: illustration-story. Asset for A Farinha Esquecida edition 01, premium illustrated literary novel. Single photorealistic cinematic image, not collage or comic. Brazilian Amazon lived-in and dignified, natural skin/wood/water textures, restrained earthy palette. Preserve exact facial identity, age, hair and clothing colors from supplied character reference images. No text, letters, logos, speech balloons, watermark, fantasy, exotic decorative animals, tourist styling or artificial model poses. All people remain same age throughout episode. Leave quiet breathing space at edges, safe crop margin.  Aspect ratio 3:2. Scene: Rosaria blue blouse wrapping plain ceramic plates in blank paper at marked table, folded clothes and modest fabric travel bags nearby in house. Humid afternoon soft light, careful hands and restrained emotion. No cardboard print or readable text."
+    },
+    {
+      "page": 10,
+      "asset": 2,
+      "ratio": "4:5",
+      "characters": "M",
+      "title": "O espaço conhecido",
+      "prompt": "Use case: illustration-story. Asset for A Farinha Esquecida edition 01, premium illustrated literary novel. Single photorealistic cinematic image, not collage or comic. Brazilian Amazon lived-in and dignified, natural skin/wood/water textures, restrained earthy palette. Preserve exact facial identity, age, hair and clothing colors from supplied character reference images. No text, letters, logos, speech balloons, watermark, fantasy, exotic decorative animals, tourist styling or artificial model poses. All people remain same age throughout episode. Leave quiet breathing space at edges, safe crop margin.  Aspect ratio 4:5. Scene: Miguel child brown tee seated beside small folded pile of clothes and plain cloth bag in familiar timber bedroom, looking across emptying shelf toward doorway, quietly observing separation. Late afternoon natural light, no invented special toy or symbolic prop."
+    },
+    {
+      "page": 11,
+      "asset": 1,
+      "ratio": "2:3",
+      "characters": "MJ",
+      "title": "O pedido",
+      "prompt": "Use case: illustration-story. Asset for A Farinha Esquecida edition 01, premium illustrated literary novel. Single photorealistic cinematic image, not collage or comic. Brazilian Amazon lived-in and dignified, natural skin/wood/water textures, restrained earthy palette. Preserve exact facial identity, age, hair and clothing colors from supplied character reference images. No text, letters, logos, speech balloons, watermark, fantasy, exotic decorative animals, tourist styling or artificial model poses. All people remain same age throughout episode. Leave quiet breathing space at edges, safe crop margin.  Aspect ratio 2:3. Scene: Hot afternoon at rear kitchen opening: Jesuina elderly in dark brown dress calmly peeling cassava over basin, knife directed safely down away from child; Miguel brown tee close beside asking her to come with family. She gives tiny wry smile, he earnest. No melodramatic tears."
+    },
+    {
+      "page": 12,
+      "asset": 1,
+      "ratio": "3:2",
+      "characters": "JL",
+      "title": "Luzia fica",
+      "prompt": "Use case: illustration-story. Asset for A Farinha Esquecida edition 01, premium illustrated literary novel. Single photorealistic cinematic image, not collage or comic. Brazilian Amazon lived-in and dignified, natural skin/wood/water textures, restrained earthy palette. Preserve exact facial identity, age, hair and clothing colors from supplied character reference images. No text, letters, logos, speech balloons, watermark, fantasy, exotic decorative animals, tourist styling or artificial model poses. All people remain same age throughout episode. Leave quiet breathing space at edges, safe crop margin.  Aspect ratio 3:2. Scene: Jesuina dark dress and younger sister Luzia brown blouse in same kitchen, Jesuina raising one eyebrow with restrained dry humor while Luzia makes lively conversational gesture. Domestic candid two-shot, not caricature, gentle afternoon daylight."
+    },
+    {
+      "page": 13,
+      "asset": 1,
+      "ratio": "16:9",
+      "characters": "MFRTP",
+      "title": "Última manhã",
+      "prompt": "Use case: illustration-story. Asset for A Farinha Esquecida edition 01, premium illustrated literary novel. Single photorealistic cinematic image, not collage or comic. Brazilian Amazon lived-in and dignified, natural skin/wood/water textures, restrained earthy palette. Preserve exact facial identity, age, hair and clothing colors from supplied character reference images. No text, letters, logos, speech balloons, watermark, fantasy, exotic decorative animals, tourist styling or artificial model poses. All people remain same age throughout episode. Leave quiet breathing space at edges, safe crop margin.  Aspect ratio 16:9. Scene: Wide human-height morning view of same zinc-roof dark wooden house and short path down to simple wooden river landing. Modest tied fabric bags and wrapped belongings near landing; family five referenced travelers small in composition preparing to leave. Life continues around them. Same house architecture, black river."
+    },
+    {
+      "page": 14,
+      "asset": 1,
+      "ratio": "4:5",
+      "characters": "MJRFLTP",
+      "title": "Despedidas",
+      "prompt": "Use case: illustration-story. Asset for A Farinha Esquecida edition 01, premium illustrated literary novel. Single photorealistic cinematic image, not collage or comic. Brazilian Amazon lived-in and dignified, natural skin/wood/water textures, restrained earthy palette. Preserve exact facial identity, age, hair and clothing colors from supplied character reference images. No text, letters, logos, speech balloons, watermark, fantasy, exotic decorative animals, tourist styling or artificial model poses. All people remain same age throughout episode. Leave quiet breathing space at edges, safe crop margin.  Aspect ratio 4:5. Scene: River landing morning. Seven exact family identities. Miguel child receives restrained goodbye touch from elderly Jesuina; Luzia near grandmother, mother Rosaria and father Francisco handle fabric bags, adolescent Teresa and Joao Paulo near waiting simple unpainted grey aluminum outboard skiff with transverse benches. Natural family farewell, no dramatic waving. No additional child, no adult-return boat."
+    },
+    {
+      "page": 15,
+      "asset": 1,
+      "ratio": "2:3",
+      "characters": "J",
+      "title": "O olhar de Jesuína",
+      "prompt": "Use case: illustration-story. Asset for A Farinha Esquecida edition 01, premium illustrated literary novel. Single photorealistic cinematic image, not collage or comic. Brazilian Amazon lived-in and dignified, natural skin/wood/water textures, restrained earthy palette. Preserve exact facial identity, age, hair and clothing colors from supplied character reference images. No text, letters, logos, speech balloons, watermark, fantasy, exotic decorative animals, tourist styling or artificial model poses. All people remain same age throughout episode. Leave quiet breathing space at edges, safe crop margin.  Aspect ratio 2:3. Scene: Medium portrait elderly Jesuina standing upright on small wooden river landing, simple dark brown dress and tied grey hair; quiet unwavering gaze toward departing boat off-camera. No wave, no tears, forest and recognizable timber house behind, natural morning light."
+    },
+    {
+      "page": 16,
+      "asset": 1,
+      "ratio": "16:9",
+      "characters": "MFRTP",
+      "title": "A partida",
+      "prompt": "Use case: illustration-story. Asset for A Farinha Esquecida edition 01, premium illustrated literary novel. Single photorealistic cinematic image, not collage or comic. Brazilian Amazon lived-in and dignified, natural skin/wood/water textures, restrained earthy palette. Preserve exact facial identity, age, hair and clothing colors from supplied character reference images. No text, letters, logos, speech balloons, watermark, fantasy, exotic decorative animals, tourist styling or artificial model poses. All people remain same age throughout episode. Leave quiet breathing space at edges, safe crop margin.  Aspect ratio 16:9. Scene: Wide from riverbank: simple unpainted grey aluminum outboard skiff with transverse benches moving away from same small community. Five family travelers: Francisco near outboard stern, Rosaria, older teenagers Teresa and Joao Paulo, small Miguel, modest fabric bags. Dark Rio Negro wake, ordinary morning, community recedes, human eye level. No tourist speedboat, no adult Miguel."
+    },
+    {
+      "page": 17,
+      "asset": 1,
+      "ratio": "3:2",
+      "characters": "",
+      "title": "Água entre mundos",
+      "prompt": "Use case: illustration-story. Asset for A Farinha Esquecida edition 01, premium illustrated literary novel. Single photorealistic cinematic image, not collage or comic. Brazilian Amazon lived-in and dignified, natural skin/wood/water textures, restrained earthy palette. Preserve exact facial identity, age, hair and clothing colors from supplied character reference images. No text, letters, logos, speech balloons, watermark, fantasy, exotic decorative animals, tourist styling or artificial model poses. All people remain same age throughout episode. Leave quiet breathing space at edges, safe crop margin.  Aspect ratio 3:2. Scene: Subjective view from seated child in same simple grey aluminum skiff looking over low side gunwale toward dark Rio Negro and distant receding forested bank. Water ripples, faint wake, realistic humid morning light; no people visible, contemplative composition, no city yet."
+    },
+    {
+      "page": 18,
+      "asset": 1,
+      "ratio": "4:5",
+      "characters": "M",
+      "title": "Olhar para trás",
+      "prompt": "Use case: illustration-story. Asset for A Farinha Esquecida edition 01, premium illustrated literary novel. Single photorealistic cinematic image, not collage or comic. Brazilian Amazon lived-in and dignified, natural skin/wood/water textures, restrained earthy palette. Preserve exact facial identity, age, hair and clothing colors from supplied character reference images. No text, letters, logos, speech balloons, watermark, fantasy, exotic decorative animals, tourist styling or artificial model poses. All people remain same age throughout episode. Leave quiet breathing space at edges, safe crop margin.  Aspect ratio 4:5. Scene: Close three-quarter profile of exact Miguel child brown tee sitting in same grey aluminum skiff turning to look backward. Short wavy black hair lightly windblown. Small river community distant blurred background over dark water. Quiet concentration, no crying, natural morning."
+    },
+    {
+      "page": 19,
+      "asset": 1,
+      "ratio": "3:2",
+      "characters": "JL",
+      "title": "Quem permanece",
+      "prompt": "Use case: illustration-story. Asset for A Farinha Esquecida edition 01, premium illustrated literary novel. Single photorealistic cinematic image, not collage or comic. Brazilian Amazon lived-in and dignified, natural skin/wood/water textures, restrained earthy palette. Preserve exact facial identity, age, hair and clothing colors from supplied character reference images. No text, letters, logos, speech balloons, watermark, fantasy, exotic decorative animals, tourist styling or artificial model poses. All people remain same age throughout episode. Leave quiet breathing space at edges, safe crop margin.  Aspect ratio 3:2. Scene: Countershot back at community, same morning: Jesuina dark dress and Luzia brown blouse seen three-quarter back walking slowly from small landing up path toward same dark-board zinc-roof house. Luzia speaking with one hand, Jesuina upright calm. Life continues, not abandonment, recognizable architecture."
+    },
+    {
+      "page": 20,
+      "asset": 1,
+      "ratio": "16:9",
+      "characters": "",
+      "title": "O rio adiante",
+      "prompt": "Use case: illustration-story. Asset for A Farinha Esquecida edition 01, premium illustrated literary novel. Single photorealistic cinematic image, not collage or comic. Brazilian Amazon lived-in and dignified, natural skin/wood/water textures, restrained earthy palette. Preserve exact facial identity, age, hair and clothing colors from supplied character reference images. No text, letters, logos, speech balloons, watermark, fantasy, exotic decorative animals, tourist styling or artificial model poses. All people remain same age throughout episode. Leave quiet breathing space at edges, safe crop margin.  Aspect ratio 16:9. Scene: Wide low seated-boat viewpoint across expansive dark Rio Negro in direction of Manaus. Low green banks far away, humid pale late-morning sky, tiny section of grey aluminum bow at bottom edge, no skyline yet. Restrained beautiful ordinary light, no sunset or spectacle."
+    },
+    {
+      "page": 21,
+      "asset": 1,
+      "ratio": "3:2",
+      "characters": "",
+      "title": "Sinais de Manaus",
+      "prompt": "Use case: illustration-story. Asset for A Farinha Esquecida edition 01, premium illustrated literary novel. Single photorealistic cinematic image, not collage or comic. Brazilian Amazon lived-in and dignified, natural skin/wood/water textures, restrained earthy palette. Preserve exact facial identity, age, hair and clothing colors from supplied character reference images. No text, letters, logos, speech balloons, watermark, fantasy, exotic decorative animals, tourist styling or artificial model poses. All people remain same age throughout episode. Leave quiet breathing space at edges, safe crop margin.  Aspect ratio 3:2. Scene: Distant early hints of Manaus arrival from river, not full arrival: low modest waterfront warehouses, a few ordinary moored riverboats, scattered low buildings among green on far bank. Broad dark Rio Negro foreground, bright humid daytime. No modern bridge, no futuristic skyline, no readable signs, no tourist landmarks close-up."
+    },
+    {
+      "page": 22,
+      "asset": 1,
+      "ratio": "3:2",
+      "characters": "MFRTP",
+      "title": "Entre os seus",
+      "prompt": "Use case: illustration-story. Asset for A Farinha Esquecida edition 01, premium illustrated literary novel. Single photorealistic cinematic image, not collage or comic. Brazilian Amazon lived-in and dignified, natural skin/wood/water textures, restrained earthy palette. Preserve exact facial identity, age, hair and clothing colors from supplied character reference images. No text, letters, logos, speech balloons, watermark, fantasy, exotic decorative animals, tourist styling or artificial model poses. All people remain same age throughout episode. Leave quiet breathing space at edges, safe crop margin.  Aspect ratio 3:2. Scene: Intimate interior of same moving grey aluminum skiff with five family travelers and plain fabric bags. Miguel in brown tee center observing silently; mother Rosaria blue, father Francisco grey near stern, older sister Teresa burgundy, older brother Joao Paulo ochre. Documentary eye-level composition, bright diffuse daytime, humane sense of uncertainty and possibility."
+    },
+    {
+      "page": 23,
+      "asset": 1,
+      "ratio": "16:9",
+      "characters": "",
+      "title": "O rastro",
+      "prompt": "Use case: illustration-story. Asset for A Farinha Esquecida edition 01, premium illustrated literary novel. Single photorealistic cinematic image, not collage or comic. Brazilian Amazon lived-in and dignified, natural skin/wood/water textures, restrained earthy palette. Preserve exact facial identity, age, hair and clothing colors from supplied character reference images. No text, letters, logos, speech balloons, watermark, fantasy, exotic decorative animals, tourist styling or artificial model poses. All people remain same age throughout episode. Leave quiet breathing space at edges, safe crop margin.  Aspect ratio 16:9. Scene: Tight poetic photographic landscape of white foamy outboard wake dissolving into dark Rio Negro water, soft natural daylight reflected, no vessel or people visible, ripples losing shape, subtle restrained atmosphere, not sunset."
+    },
+    {
+      "page": 24,
+      "asset": 1,
+      "ratio": "2:3",
+      "characters": "",
+      "title": "Continuidade",
+      "prompt": "Use case: illustration-story. Asset for A Farinha Esquecida edition 01, premium illustrated literary novel. Single photorealistic cinematic image, not collage or comic. Brazilian Amazon lived-in and dignified, natural skin/wood/water textures, restrained earthy palette. Preserve exact facial identity, age, hair and clothing colors from supplied character reference images. No text, letters, logos, speech balloons, watermark, fantasy, exotic decorative animals, tourist styling or artificial model poses. All people remain same age throughout episode. Leave quiet breathing space at edges, safe crop margin.  Aspect ratio 2:3. Scene: Vertical minimal cinematic photographic view astern over dark Rio Negro, thin white fading boat wake in lower third leading toward distant low green riverbank and quiet hazy daylight horizon. Large calm dark water negative space, premium literary back-cover image, no text."
+    }
+  ]
+}
