@@ -50,3 +50,11 @@ V17 -> roteiro da página -> stylesheet -> memoria.md -> referência exata de pe
 
 ## Atualização permanente
 Toda decisão visual aprovada que afete gerações futuras deve ser registrada neste arquivo ou no `descricao.md` do personagem antes de continuar.
+
+## Elenco visual concluído — 2026-09-07
+
+Foram auditados os 101 lados da V17 e criadas fichas e referências para os 16 personagens nomeados que exigem representação visual: Miguel, Dona Jesuína, Isabele, Dona Luzia, Rosária, Francisco, Teresa, João Paulo, Seu Mundico, Seu Pedro, Nonato, Walber, Claudinho, Auvino, Ana e Gabriel.
+
+O conjunto contém 36 imagens-base em `fases/<fase>/aprovadas/`, todas em PNG vertical 1024 × 1536. Cada sequência etária preserva a própria âncora facial. Consultar `producao/INVENTARIO_ASSETS.md` e o `ASSETS.md` de cada personagem antes de qualquer cena.
+
+Armando é somente a referência nominal do `Bar do Armando`, sem ação visual individual. O marido vereador de Teresa não possui nome e não recebe lock até uma página exigir sua presença concreta.
