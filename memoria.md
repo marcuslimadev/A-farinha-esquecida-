@@ -43,18 +43,29 @@ Cânone: irmã mais nova de Dona Jesuína, tia-avó de Miguel, solteira durante 
 
 Fases autorizadas agora: `01_adulta_infancia_miguel` e `02_mais_velha_retorno_miguel`. Não criar fase final até existir necessidade editorial concreta. O mesmo rosto deve ser preservado integralmente; envelhecimento por passagem de tempo, emagrecimento e marcas naturais, nunca por troca de identidade.
 
-Locks/proibições de Luzia: não chamá-la de mãe de Miguel; não fazê-la filha de Jesuína; não inventar filhos, profissão, religião específica ou passado conjugal; não transformá-la em caricatura de `velha fofoqueira`; não usar romance juvenil na relação tardia com Seu Mundico; não inventar citações; não promover pranchas, contact sheets ou estudos com texto/metadados alucinados a assets oficiais. Dois estudos gerados nesta execução foram rejeitados por alucinações de personagem e não pertencem ao conjunto oficial.
-
-## Fluxo obrigatório
-V17 -> roteiro da página -> stylesheet -> memoria.md -> referência exata de personagem/fase -> cenário -> composição/dimensões -> geração -> auditoria de continuidade -> salvamento na pasta da página.
-
-## Atualização permanente
-Toda decisão visual aprovada que afete gerações futuras deve ser registrada neste arquivo ou no `descricao.md` do personagem antes de continuar.
+Locks/proibições de Luzia: não chamá-la de mãe de Miguel; não fazê-la filha de Jesuína; não inventar filhos, profissão, religião específica ou passado conjugal; não transformá-la em caricatura de `velha fofoqueira`; não usar romance juvenil na relação tardia com Seu Mundico; não inventar citações; não promover pranchas, contact sheets ou estudos com texto/metadados alucinados a assets oficiais.
 
 ## Elenco visual concluído — 2026-09-07
-
 Foram auditados os 101 lados da V17 e criadas fichas e referências para os 16 personagens nomeados que exigem representação visual: Miguel, Dona Jesuína, Isabele, Dona Luzia, Rosária, Francisco, Teresa, João Paulo, Seu Mundico, Seu Pedro, Nonato, Walber, Claudinho, Auvino, Ana e Gabriel.
 
 O conjunto contém 36 imagens-base em `fases/<fase>/aprovadas/`, todas em PNG vertical 1024 × 1536. Cada sequência etária preserva a própria âncora facial. Consultar `producao/INVENTARIO_ASSETS.md` e o `ASSETS.md` de cada personagem antes de qualquer cena.
 
 Armando é somente a referência nominal do `Bar do Armando`, sem ação visual individual. O marido vereador de Teresa não possui nome e não recebe lock até uma página exigir sua presença concreta.
+
+## Locks de cenários — iniciado em 2026-09-07
+Cenários recorrentes devem ser tratados como identidades visuais persistentes. Estrutura em `producao/cenarios/`.
+
+Prioridade: Casa de Dona Jesuína, Casa de Farinha, Rio/Comunidade, Flutuante de Seu Mundico, Mata, apartamento de Manaus, Distrito Industrial/BASF, Manaus urbana e casa de Miguel/Isabele.
+
+`LOC-CASA-JESUINA-01`: casa sobre esteios antigos, tábuas escurecidas, telhado de zinco, cozinha marcada por fumaça, mesa marcada pelo uso e estrutura de Auvino reconhecível ao longo da história. Planta espacial fixa.
+
+`LOC-CASA-FARINHA-01`: quatro estados obrigatórios — viva na infância; deteriorada no retorno; reconstrução progressiva; legado final. Deve permanecer a mesma construção através das transformações.
+
+## Locks de objetos — iniciado em 2026-09-07
+Estrutura em `producao/objetos/`. Prioridade: `OBJ-BAU-AUVINO-01`, `OBJ-TIPITI-01`, `OBJ-FORNO-FARINHA-01`, `OBJ-VOADEIRA-MIGUEL-01`, `OBJ-MALHADEIRA-01`.
+
+## Fluxo obrigatório
+V17 -> roteiro da página -> stylesheet -> memoria.md -> referência exata de personagem/fase -> cenário/estado -> objetos -> composição/dimensões -> geração -> auditoria de continuidade -> salvamento na pasta da página.
+
+## Atualização permanente
+Toda decisão visual aprovada que afete gerações futuras deve ser registrada neste arquivo ou na ficha específica antes de continuar.
