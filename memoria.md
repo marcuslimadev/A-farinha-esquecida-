@@ -16,7 +16,7 @@ Este arquivo é a regra-mãe de continuidade visual e editorial do projeto. Deve
 `PERSONAGEM_FASE_TIPO_V01.png`, por exemplo `MIGUEL_INFANCIA_RETRATO_V01.png`.
 
 ## Regra de chamada por página
-A página nunca redefine aparência. Exemplo: se `Edicao_06/Pagina_15` pedir Miguel adulto e Isabele adulta, consultar a pasta/fase oficial correspondente antes de gerar.
+A página nunca redefine aparência. Consultar personagem/fase oficial antes de gerar.
 
 ## Fonte canônica
 Continuidade narrativa: `A_Farinha_Esquecida_V17_Celular.pdf` e roteiro editorial derivado. Não inventar fases, parentescos, idades ou transformações sem suporte.
@@ -26,46 +26,43 @@ Realismo fotográfico/cinematográfico. Amazônia brasileira natural, digna e pr
 
 ## Personagens com lock iniciado
 ### 01 — Miguel
-Ficha: `producao/personagens/01_Miguel/descricao.md`.
-Fases previstas: infância, adolescência, jovem adulto, adulto no retorno e maduro. O mesmo rosto deve envelhecer naturalmente; não transformar Miguel em galã convencional.
+Ficha: `producao/personagens/01_Miguel/descricao.md`. Fases: infância, adolescência, jovem adulto, adulto no retorno e maduro. Mesmo rosto envelhece naturalmente; não transformar em galã convencional.
 
 ### 02 — Dona Jesuína
-Ficha: `producao/personagens/02_Dona_Jesuina/descricao.md`.
-Fases previstas: adulta jovem (memória com Auvino), madura, idosa no início e idosa final. Lock principal: mulher amazônica morena, rosto forte, cabelo escuro/grisalho preso em coque simples, mãos de trabalho, postura firme no início. O envelhecimento final acontece por subtração, nunca por troca de rosto. Não usar arquétipo de avó mística.
+Ficha: `producao/personagens/02_Dona_Jesuina/descricao.md`. Fases: adulta jovem, madura, idosa no início e idosa final. Mulher amazônica morena, rosto forte, cabelo escuro/grisalho preso, mãos de trabalho. Envelhecimento por subtração; nunca avó mística.
 
 ### 03 — Isabele
-Ficha: `producao/personagens/03_Isabele/descricao.md`.
-Isabele entra já adulta. Filha de Seu Mundico, um pouco mais velha que Miguel. Cânone: bonita sem pedir atenção, rosto forte, olhar firme, corpo de quem viveu e presença sem interesse em impressionar. Fases autorizadas: adulta no retorno de Miguel; esposa/mãe; madura no encerramento. É proibido criar infância/adolescência ou parentesco com Jesuína/Miguel. O mesmo rosto deve envelhecer naturalmente.
+Ficha: `producao/personagens/03_Isabele/descricao.md`. Entra adulta. Filha de Seu Mundico, um pouco mais velha que Miguel. Fases: adulta no retorno; esposa/mãe; madura. Proibido criar infância/adolescência ou parentesco com Jesuína/Miguel.
 
 ### 04 — Dona Luzia
-Ficha: `producao/personagens/04_Dona_Luzia/descricao.md`.
-Cânone: irmã mais nova de Dona Jesuína, tia-avó de Miguel, solteira durante grande parte da história, faladeira, opinativa, afetuosa e socialmente observadora. Na infância de Miguel aparece como adulta ativa e expressiva; no retorno de Miguel, dezessete anos depois, a V17 a define como `mais velha, mais magra, mas absolutamente a mesma`.
-
-Fases autorizadas agora: `01_adulta_infancia_miguel` e `02_mais_velha_retorno_miguel`. Não criar fase final até existir necessidade editorial concreta. O mesmo rosto deve ser preservado integralmente; envelhecimento por passagem de tempo, emagrecimento e marcas naturais, nunca por troca de identidade.
-
-Locks/proibições de Luzia: não chamá-la de mãe de Miguel; não fazê-la filha de Jesuína; não inventar filhos, profissão, religião específica ou passado conjugal; não transformá-la em caricatura de `velha fofoqueira`; não usar romance juvenil na relação tardia com Seu Mundico; não inventar citações; não promover pranchas, contact sheets ou estudos com texto/metadados alucinados a assets oficiais.
+Ficha: `producao/personagens/04_Dona_Luzia/descricao.md`. Irmã mais nova de Jesuína, tia-avó de Miguel. Fases autorizadas: adulta na infância de Miguel e mais velha no retorno. Não caricaturar.
 
 ## Elenco visual concluído — 2026-09-07
-Foram auditados os 101 lados da V17 e criadas fichas e referências para os 16 personagens nomeados que exigem representação visual: Miguel, Dona Jesuína, Isabele, Dona Luzia, Rosária, Francisco, Teresa, João Paulo, Seu Mundico, Seu Pedro, Nonato, Walber, Claudinho, Auvino, Ana e Gabriel.
+Foram auditados os 101 lados da V17 e criadas fichas e referências para 16 personagens nomeados: Miguel, Dona Jesuína, Isabele, Dona Luzia, Rosária, Francisco, Teresa, João Paulo, Seu Mundico, Seu Pedro, Nonato, Walber, Claudinho, Auvino, Ana e Gabriel.
 
-O conjunto contém 36 imagens-base em `fases/<fase>/aprovadas/`, todas em PNG vertical 1024 × 1536. Cada sequência etária preserva a própria âncora facial. Consultar `producao/INVENTARIO_ASSETS.md` e o `ASSETS.md` de cada personagem antes de qualquer cena.
+O conjunto contém 36 imagens-base em `fases/<fase>/aprovadas/`, PNG vertical 1024 × 1536. Consultar `producao/INVENTARIO_ASSETS.md` e o `ASSETS.md` de cada personagem.
 
-Armando é somente a referência nominal do `Bar do Armando`, sem ação visual individual. O marido vereador de Teresa não possui nome e não recebe lock até uma página exigir sua presença concreta.
+## Locks de cenários — consolidados em 2026-09-07
+Estrutura: `producao/cenarios/`.
 
-## Locks de cenários — iniciado em 2026-09-07
-Cenários recorrentes devem ser tratados como identidades visuais persistentes. Estrutura em `producao/cenarios/`.
+- `LOC-CASA-JESUINA-01`: casa sobre esteios, tábuas escurecidas, zinco, cozinha de fumaça, mesa marcada, planta espacial fixa.
+- `LOC-CASA-FARINHA-01`: mesma construção em quatro estados: viva na infância; deteriorada no retorno; reconstrução; legado final.
+- `LOC-RIO-01`: Rio Negro/comunidade como espaço-matriz; água escura, escala variável, comunidade vivida, sem cartão-postal ou exotização.
+- `LOC-FLUTUANTE-MUNDICO-01`: comércio flutuante funcional sobre água, com gelo, refrigerante, isca, cerveja, mantimentos e pequenas soluções; mesma identidade ao longo do tempo.
+- `LOC-MATA-01`: floresta amazônica real, úmida, densa e funcional; POV muda conforme personagem; nunca selva genérica de aventura.
+- `LOC-APARTAMENTO-MANAUS-01`: apartamento familiar pequeno e funcional, progressivamente apropriado conforme estabilidade; nunca miséria visual nem alto padrão contemporâneo.
+- `LOC-DISTRITO-INDUSTRIAL-01`: fábrica/BASF como espaço digno de trabalho, amizade, competência e conflito; não é prisão visual.
+- `LOC-MANAUS-URBANA-01`: Manaus é cidade de descoberta e felicidade real para Miguel. Subcenários: chegada pelo Negro, rua/infância, Ponta Negra, Amazonas Shopping, Centro/Praça São Sebastião/Bar do Armando e vida noturna. Nunca aplicar oposição simplista `cidade ruim x interior bom`.
+- `LOC-CASA-MIGUEL-ISABELE-01`: nasce do terreno ao lado da casa de farinha; quatro estados: estrutura inicial, habitável simples, família crescendo e casa madura da cena final.
 
-Prioridade: Casa de Dona Jesuína, Casa de Farinha, Rio/Comunidade, Flutuante de Seu Mundico, Mata, apartamento de Manaus, Distrito Industrial/BASF, Manaus urbana e casa de Miguel/Isabele.
-
-`LOC-CASA-JESUINA-01`: casa sobre esteios antigos, tábuas escurecidas, telhado de zinco, cozinha marcada por fumaça, mesa marcada pelo uso e estrutura de Auvino reconhecível ao longo da história. Planta espacial fixa.
-
-`LOC-CASA-FARINHA-01`: quatro estados obrigatórios — viva na infância; deteriorada no retorno; reconstrução progressiva; legado final. Deve permanecer a mesma construção através das transformações.
-
-## Locks de objetos — iniciado em 2026-09-07
+## Locks de objetos
 Estrutura em `producao/objetos/`. Prioridade: `OBJ-BAU-AUVINO-01`, `OBJ-TIPITI-01`, `OBJ-FORNO-FARINHA-01`, `OBJ-VOADEIRA-MIGUEL-01`, `OBJ-MALHADEIRA-01`.
 
 ## Fluxo obrigatório
 V17 -> roteiro da página -> stylesheet -> memoria.md -> referência exata de personagem/fase -> cenário/estado -> objetos -> composição/dimensões -> geração -> auditoria de continuidade -> salvamento na pasta da página.
+
+## Próxima etapa após locks
+Não gerar páginas aleatoriamente. Primeiro mapear a Edição 01 em sequência: texto/cena -> página ou spread -> personagens/fases -> cenário/estado -> objetos -> quantidade de imagens -> proporção/dimensão de cada slot. Só então gerar os assets visuais específicos para cada slot, sem texto embutido.
 
 ## Atualização permanente
 Toda decisão visual aprovada que afete gerações futuras deve ser registrada neste arquivo ou na ficha específica antes de continuar.
