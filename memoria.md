@@ -10,6 +10,7 @@ Este arquivo é a regra-mãe de continuidade visual e editorial do projeto. Deve
 5. Preservar estrutura facial, pele, cabelo, proporção corporal, idade aparente, envelhecimento, figurino coerente e personalidade visual.
 6. Não recriar o personagem do zero. Imagens-base aprovadas são referências obrigatórias.
 7. Em cenas coletivas, consultar todos os personagens antes de gerar.
+8. Pranchas, contact sheets e estudos não são automaticamente referências oficiais. Só um asset individual auditado e aprovado pode virar imagem-base.
 
 ## Nomenclatura
 `PERSONAGEM_FASE_TIPO_V01.png`, por exemplo `MIGUEL_INFANCIA_RETRATO_V01.png`.
@@ -31,6 +32,10 @@ Fases previstas: infância, adolescência, jovem adulto, adulto no retorno e mad
 ### 02 — Dona Jesuína
 Ficha: `producao/personagens/02_Dona_Jesuina/descricao.md`.
 Fases previstas: adulta jovem (memória com Auvino), madura, idosa no início e idosa final. Lock principal: mulher amazônica morena, rosto forte, cabelo escuro/grisalho preso em coque simples, mãos de trabalho, postura firme no início. O envelhecimento final acontece por subtração, nunca por troca de rosto. Não usar arquétipo de avó mística.
+
+### 03 — Isabele
+Ficha: `producao/personagens/03_Isabele/descricao.md`.
+Isabele entra já adulta. Filha de Seu Mundico, um pouco mais velha que Miguel. Cânone: bonita sem pedir atenção, rosto forte, olhar firme, corpo de quem viveu e presença sem interesse em impressionar. Fases autorizadas: adulta no retorno de Miguel; esposa/mãe; madura no encerramento. É proibido criar infância/adolescência ou parentesco com Jesuína/Miguel. O mesmo rosto deve envelhecer naturalmente.
 
 ## Fluxo obrigatório
 V17 -> roteiro da página -> stylesheet -> memoria.md -> referência exata de personagem/fase -> cenário -> composição/dimensões -> geração -> auditoria de continuidade -> salvamento na pasta da página.
