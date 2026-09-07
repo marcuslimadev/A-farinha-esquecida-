@@ -15,13 +15,22 @@ Este arquivo é a regra-mãe de continuidade visual e editorial do projeto. Deve
 `PERSONAGEM_FASE_TIPO_V01.png`, por exemplo `MIGUEL_INFANCIA_RETRATO_V01.png`.
 
 ## Regra de chamada por página
-A página nunca redefine aparência. Exemplo: se `Edicao_06/Pagina_15` pedir Miguel adulto e Isabele adulta, consultar `producao/personagens/01_Miguel/fases/03_adulto/` e `producao/personagens/07_Isabele/fases/01_adulta/` antes de gerar.
+A página nunca redefine aparência. Exemplo: se `Edicao_06/Pagina_15` pedir Miguel adulto e Isabele adulta, consultar a pasta/fase oficial correspondente antes de gerar.
 
 ## Fonte canônica
 Continuidade narrativa: `A_Farinha_Esquecida_V17_Celular.pdf` e roteiro editorial derivado. Não inventar fases, parentescos, idades ou transformações sem suporte.
 
 ## Estilo global
 Realismo fotográfico/cinematográfico. Amazônia brasileira natural, digna e precisa, sem exotização, folclorização, fantasia, cosplay ou estética de banco de imagens.
+
+## Personagens com lock iniciado
+### 01 — Miguel
+Ficha: `producao/personagens/01_Miguel/descricao.md`.
+Fases previstas: infância, adolescência, jovem adulto, adulto no retorno e maduro. O mesmo rosto deve envelhecer naturalmente; não transformar Miguel em galã convencional.
+
+### 02 — Dona Jesuína
+Ficha: `producao/personagens/02_Dona_Jesuina/descricao.md`.
+Fases previstas: adulta jovem (memória com Auvino), madura, idosa no início e idosa final. Lock principal: mulher amazônica morena, rosto forte, cabelo escuro/grisalho preso em coque simples, mãos de trabalho, postura firme no início. O envelhecimento final acontece por subtração, nunca por troca de rosto. Não usar arquétipo de avó mística.
 
 ## Fluxo obrigatório
 V17 -> roteiro da página -> stylesheet -> memoria.md -> referência exata de personagem/fase -> cenário -> composição/dimensões -> geração -> auditoria de continuidade -> salvamento na pasta da página.
