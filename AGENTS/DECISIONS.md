@@ -1,33 +1,26 @@
-# DECISIONS
-
-Este arquivo registra somente decisões duradouras que não devem ser reprocessadas a cada execução.
+# DECISÕES
 
 [D001]
 ASSUNTO: Modelo operacional padrão
-DECISAO: Usar Luna/modelo não-Pro disponível como coordenador e workers para tarefas operacionais; Astra somente para exceções explicitamente marcadas em `AGENTS/ASTRA_HANDOFF.md`.
-MOTIVO: Reduzir consumo de modelos caros sem perder continuidade.
-REABRIR_SE: A disponibilidade/arquitetura de modelos mudar ou Luna demonstrar incapacidade recorrente em tarefa essencial.
+DECISAO: Usar Luna/modelo não-Pro disponível; Astra somente para exceções explicitamente marcadas.
+MOTIVO: Reduzir consumo sem perder continuidade.
+REABRIR_SE: Mudança de arquitetura ou incapacidade recorrente.
 
 [D002]
 ASSUNTO: Limite de contexto por asset
-DECISAO: Ler apenas ficha, trecho canônico, personagens, cenário e objetos necessários ao asset atual; é proibida leitura ampla do repositório por padrão.
-MOTIVO: Evitar consumo repetitivo de contexto e inconsistências por excesso de informação.
-REABRIR_SE: Um problema real de continuidade exigir ampliar o contexto.
+DECISAO: Ler apenas arquivos necessários ao asset atual.
+MOTIVO: Evitar consumo e inconsistências.
+REABRIR_SE: Problema real de continuidade exigir ampliação.
 
 [D003]
 ASSUNTO: Aprovação de imagens
-DECISAO: A existência de PNG no Git não equivale a aprovação. Todo asset gerado precisa passar por QA explícito contra ficha e locks.
-MOTIVO: Separar produção de validação e evitar consolidar inconsistências visuais.
-REABRIR_SE: Nunca por conveniência; apenas se o fluxo editorial for formalmente alterado.
+DECISAO: PNG no Git não equivale a aprovação; todo asset requer QA explícito.
+MOTIVO: Separar produção de validação.
+REABRIR_SE: Fluxo editorial formalmente alterado.
 
 [D004]
-ASSUNTO: Automação contínua
-DECISAO: Goal/Loop não são habilitados por padrão. Cada comando curto do usuário conclui no máximo 1 página ou 2 assets e para com estado persistido atualizado.
-MOTIVO: Evitar consumo descontrolado e manter supervisão sobre custo/progresso.
-REABRIR_SE: O usuário pedir explicitamente um modo contínuo e houver limites seguros definidos.
+ASSUNTO: Primeiro asset pendente
+DECISAO: Continuar por E01-P07-A01, proporção 3:2 e sete pessoas.
+MOTIVO: Páginas 01–06 possuem imagens; P07 é a primeira lacuna.
+REABRIR_SE: Auditoria identificar ausência, reprovação ou ordem diferente.
 
-[D005]
-ASSUNTO: Diagramação
-DECISAO: Texto, tipografia e composição final serão feitos posteriormente no Corel; imagens não devem conter texto gerado por IA e devem ser produzidas especificamente para seus slots editoriais.
-MOTIVO: Preservar qualidade profissional e evitar forçar imagens genéricas na diagramação.
-REABRIR_SE: O processo editorial for formalmente alterado pelo usuário.
