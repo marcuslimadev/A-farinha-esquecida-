@@ -7,6 +7,7 @@ APROVADOS:
 - E01-P08-A01 — auditado visualmente em 2026-09-24: Francisco, Rosária e Miguel na fase correta e reconhecíveis frente aos retratos individuais; três pessoas sem duplicação, anatomia visível coerente, noite chuvosa, lamparina, interior de madeira funcional e sem texto, PNG 1536 × 1024 (3:2). As mãos de Rosária ficam fora da área visível e não são verificáveis; aprovação operacional sujeita à revisão editorial do autor.
 - E01-P09-A01 — auditado visualmente em 2026-09-24: Jesuína idosa-início reconhecível e coerente com a referência individual; exatamente uma pessoa; postura ereta, olhar para a conversa fora de quadro, duas mãos visíveis com costura plausível, anatomia íntegra; continuidade da noite chuvosa, casa de madeira e lamparina da página 08; sem texto; PNG 1024 × 1536 (2:3). Aprovação operacional sujeita à revisão editorial do autor.
 - E01-P10-A01 — auditado visualmente em 2026-09-24: Rosária na fase `01_mae_partida`, identidade, idade, cabelo preso e blusa azul coerentes com a referência individual; exatamente uma pessoa; duas mãos visíveis e íntegras embrulhando um prato em papel sem impressão; pilha de pratos, roupas dobradas e bagagem de tecido sustentam a mudança; continuidade da casa de madeira e mesa marcada; sem texto; PNG 1536 × 1024 (3:2). Aprovação operacional sujeita a revisão editorial do autor.
+- E01-P10-A02 — auditado visualmente em 2026-09-24: Miguel na fase `01_infancia`, rosto, idade, cabelo e camiseta marrom coerentes com a referência individual; exatamente uma pessoa; duas mãos, braços e pernas visíveis com anatomia plausível; menino sentado ao lado de roupas dobradas e bolsa de pano, olhando para a prateleira parcialmente esvaziada e a porta; continuidade da casa de madeira e luz de fim de tarde; sem texto; PNG 1120 × 1400 (4:5). Aprovação operacional sujeita a revisão editorial do autor.
 
 GERADOS_NAO_AUDITADOS:
 - E01-P01-A01 — PNG presente no Git; requer inspeção visual formal.
@@ -18,14 +19,14 @@ PROMPTS_PRONTOS:
 
 PENDENTES:
 - Auditoria visual dos assets existentes das páginas 01–06, começando por E01-P01-A01.
-- Produção/auditoria de E01-P10-A02 e das páginas 11–24.
+- Produção/auditoria das páginas 11–24.
 
 PROXIMA_ACAO:
-- Ler texto, ficha, direção, locks e referências de E01-P10-A02; gerar e auditar um asset.
+- Ler texto, ficha, direção, locks e referências de E01-P11-A01; gerar e auditar um asset.
 - A auditoria dos PNGs anteriores permanece pendente; não presumir aprovação.
 
 PROXIMO_ASSET:
-E01-P10-A02
+E01-P11-A01
 
 PROBLEMAS:
 - O estado anterior apontava P01 para auditoria e o handoff/decisão D004 apontava P07 como primeira lacuna de geração. São filas diferentes, registradas acima.
@@ -33,6 +34,7 @@ PROBLEMAS:
 - E01-P08-A01: as primeiras tentativas de geração não devolveram arquivo. Uma tentativa posterior produziu PNG; auditoria visual realizada após confirmar acesso ao arquivo. A pose das mãos de Rosária não é verificável no enquadramento, embora não haja mão contraditória sobre a mesa. Não inferir sua posição como fato comprovado.
 - E01-P09-A01: gerado com a referência individual aprovada de Jesuína `03_idosa_inicio` e E01-P08-A01 como guia de continuidade de cenário e luz. A imagem mostra uma linha longa de costura, mas a agulha, o tecido e a pega são visualmente plausíveis; nenhuma anomalia anatômica observada.
 - E01-P10-A01: gerado com a referência individual aprovada de Rosária `01_mae_partida`, E01-P08-A01 como guia de identidade/figurino e E01-P02-A01 como guia arquitetônica. A pilha mostra cinco pratos, variação editorial aceitável em relação à indicação auxiliar de três ou quatro; a ação, o número de pessoas e os objetos canônicos permanecem corretos.
+- E01-P10-A02: gerado com a referência individual aprovada de Miguel `01_infancia`; E01-P02-A01 e E01-P10-A01 foram usados apenas como guias de arquitetura, materialidade e luz. A geração original de 1122 × 1402 foi recortada em 1 px por borda para o slot 4:5 exato, sem alterar a composição. Não há brinquedo ou objeto simbólico inventado.
 
 ASTRA_REQUIRED:
 NAO
