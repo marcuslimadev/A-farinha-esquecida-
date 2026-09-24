@@ -27,6 +27,7 @@ E01-P08-A01
 PROBLEMAS:
 - O estado anterior apontava P01 para auditoria e o handoff/decisão D004 apontava P07 como primeira lacuna de geração. São filas diferentes, registradas acima.
 - A geração de E01-P07-A01 usou uma folha de contato apenas como guia de identidade, reforçada pelas referências individuais de Rosária e Miguel. A folha não é asset oficial; todos os sete retratos individuais foram inspecionados. PNG final 1536 × 1024, 3:2.
+- E01-P08-A01: em 2026-09-24, a geração foi solicitada com as três referências individuais aprovadas (Francisco pai/partida, Rosária mãe/partida e Miguel infância), mas a ferramenta não devolveu conteúdo de imagem nem gravou arquivo em `generated_images`. Sem PNG acessível não houve auditoria, aprovação ou alteração da pasta da página. Retomar E01-P08-A01 na execução seguinte; não avançar para P09.
 
 ASTRA_REQUIRED:
 NAO
